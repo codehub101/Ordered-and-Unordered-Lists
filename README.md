@@ -1,4 +1,4 @@
-# Experiencing HTML Lab
+# Ordered and Unordered Lists
 
 ## Learning Goals
 
